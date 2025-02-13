@@ -16,19 +16,7 @@ A estrutura do projeto está organizada da seguinte forma:
 - HTML5
 - CSS3
 - Font Awesome (para ícones sociais)
-
-## Estrutura de Arquivos
-
-- [index.html](http://_vscodecontentref_/5): Estrutura HTML da interface de login.
-- `css/`: Diretório contendo todos os arquivos CSS organizados em componentes, layout e animações.
-  - `components/`: Contém estilos para botões, formulários e ícones sociais.
-  - `layout/`: Contém estilos para containers e painéis de alternância.
-  - `animations.css`: Contém definições de animações.
-  - `base.css`: Contém estilos globais e reset.
-  - `variables.css`: Contém variáveis CSS para facilitar a manutenção.
-  - [style.css](http://_vscodecontentref_/6): Arquivo principal que importa todos os outros arquivos CSS.
-- [script.js](http://_vscodecontentref_/7): Arquivo JavaScript para adicionar funcionalidades interativas (se necessário).
-
+  
 ## Funcionalidades
 
 - **Login e Registro**: Formulários separados para login e registro de novos usuários.
